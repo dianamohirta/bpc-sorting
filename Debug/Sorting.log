@@ -1,0 +1,19 @@
+﻿  ConsolePrint.c
+C:\Users\user1\source\repos\Sorting\ConsolePrint.c(96,18): warning C4047: '=': 'int *' differs in levels of indirection from 'int'
+C:\Users\user1\source\repos\Sorting\ConsolePrint.c(102,43): warning C4047: 'function': 'int **' differs in levels of indirection from 'int [1000][1000]'
+C:\Users\user1\source\repos\Sorting\ConsolePrint.c(102,34): warning C4024: 'readSortData': different types for formal and actual parameter 3
+  Main.c
+C:\Users\user1\source\repos\Sorting\Main.c(23,29): warning C4013: 'selectionSort' undefined; assuming extern returning int
+C:\Users\user1\source\repos\Sorting\Main.c(25,26): warning C4013: 'bubbleSort' undefined; assuming extern returning int
+C:\Users\user1\source\repos\Sorting\Main.c(27,24): warning C4013: 'heapSort' undefined; assuming extern returning int
+C:\Users\user1\source\repos\Sorting\Main.c(29,25): warning C4013: 'quickSort' undefined; assuming extern returning int
+C:\Users\user1\source\repos\Sorting\Main.c(31,29): warning C4013: 'insertionSort' undefined; assuming extern returning int
+C:\Users\user1\source\repos\Sorting\Main.c(33,25): warning C4013: 'radixSort' undefined; assuming extern returning int
+C:\Users\user1\source\repos\Sorting\Main.c(35,25): warning C4013: 'shellSort' undefined; assuming extern returning int
+C:\Users\user1\source\repos\Sorting\Main.c(76,26): warning C4013: 'generateArrayElements' undefined; assuming extern returning int
+C:\Users\user1\source\repos\Sorting\Main.c(87,16): warning C4013: 'printReport' undefined; assuming extern returning int
+C:\Users\user1\source\repos\Sorting\Main.c(85,1): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+C:\Users\user1\source\repos\Sorting\Main.c(37): warning C4715: 'sort': not all control paths return a value
+C:\Users\user1\source\repos\Sorting\Main.c(57): warning C4715: 'getName': not all control paths return a value
+  Sorting.vcxproj -> C:\Users\user1\source\repos\Sorting\Debug\Sorting.exe
